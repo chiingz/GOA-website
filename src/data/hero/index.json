@@ -1,0 +1,26 @@
+[
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Revolutionizing Real Estate: Timeless Value, Modern Innovation.",
+    "Desc": "Timeless Value, Modern Innovation. Experience the future of living with our expertly designed spaces.",
+    "icon": "FaHome",
+    "heroimage": "/img/george/home-01.jpg",
+    "id": "01",
+    "buttonText": "Make An Enquiry",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Navigating the Future: Progressive Real Estate Redefining Lasting Value.",
+    "Desc": "Explore a new standard of enduring excellence in modern living.",
+    "icon": "FaHome",
+    "heroimage": "/img/george/home-02.jpg",
+    "id": "02",
+    "buttonText": "Make An Enquiry",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": true
+  }
+]

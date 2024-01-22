@@ -1,0 +1,450 @@
+[
+  {
+    "id": "2",
+    "paranoma": "/img/properties/maitama/maitama.jpeg",
+    "carousel": [
+      { "img": "/img/properties/maitama/home-14x1904.jpg" },
+      { "img": "/img/properties/maitama/home-15x1904.jpg" },
+      { "img": "/img/properties/maitama/home-19x1904.jpg" }
+    ],
+    "title": "Charming House in Maitama",
+    "productImg": "/img/properties/maitama/home-14x800.jpg",
+    "price": 250,
+    "priceRange": ["Mid-Range"],
+    "discount": 7,
+    "country": true,
+    "district": "Maitama",
+    "properties": 4,
+    "featured": false,
+    "new": true,
+    "rent": true,
+    "photo": ["living", "bedroom", "kitchen"],
+    "video": ["tour", "interior"],
+    "bedBath": ["Double", "renting", "selling"],
+    "ratingCount": 8,
+    "rating": 4.5,
+    "saleCount": 15,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Charming",
+      "house",
+      "cozy",
+      "garden",
+      "Maitama",
+      "greenery",
+      "Mid-Range",
+      "Rent"
+    ],
+    "date": "September 10, 2022",
+    "comments": 18,
+    "locantion": "Maitama, Abuja",
+    "description": {
+      "title": "Description",
+      "fullDescription": "A charming and cozy house located in the peaceful Maitama district. This property offers a serene environment with a beautiful garden. Ideal for those looking for a comfortable home surrounded by greenery.",
+      "shortDescription": "Charming house with a cozy atmosphere and beautiful garden in the peaceful Maitama district."
+    },
+    "propertyDetails": {
+      "propertyId": "MTM08",
+      "area": 1800,
+      "propertyStatus": "For Rent",
+      "rooms": 5,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 2018
+    },
+    "factsAndFeatures": {
+      "livingRoom": "22 x 18 sq feet",
+      "kitchen": "15 x 12 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "10 x 8 sq feet",
+      "garden": "15 x 30 sq feet",
+      "parking": "Open"
+    },
+    "amenities1": [
+      "Air Conditioning",
+      "Garden",
+      "Pet-Friendly",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Security System",
+      "Parking",
+      "Fireplace",
+      "Built-in Wardrobes"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Washing Machine",
+      "Microwave",
+      "CCTV Surveillance",
+      "Dining Area"
+    ],
+    "AmenitiesList": ["Cozy"],
+    "agent": {
+      "firstName": "Emma",
+      "lastName": "Johnson",
+      "fullName": "Emma Johnson",
+      "type": "Real Estate Agent",
+      "img": "agent-03.jpg",
+      "designation": "Property Consultant",
+      "rating": 4.2,
+      "description": "Passionate about finding the perfect homes for clients. I believe in creating spaces where families can make lasting memories.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    "gallery": {
+      "img1": "/img/properties/maitama/home-14.jpg",
+      "img2": "/img/properties/maitama/home-15.jpg",
+      "img3": "/img/properties/maitama/home-19.jpg"
+    },
+    "propertyTypes": ["House", "Cozy", "Garden"],
+    "floorPlan": {
+      "img": "/img/properties/maitama/floor_plan-001.png",
+     "features":{
+        "first":[
+          "Owners Suit: 13′ 0″ X 16′ 00″",
+          "Bedroom 2: 12′ 8″ X 11′ 8″",
+          "Bedroom 3: 12′ 4″ X 11′ 4″",
+          "Great Room: 22′ 0″ X 17′ 6″",
+          "Dining Parlor: 12′ 2″ X 13′ 0″",
+          "Kitchen: 14′ 7″ X 14′ 2″",
+          "Garage: 22′ 6″ X 25′ 0″"        
+        ]
+     }
+    }
+  },
+  {
+    "id": "3",
+    "paranoma": "/img/properties/wuse/wuse.jpeg",
+    "carousel": [
+      { "img": "/img/properties/wuse/home-06x1904.jpg" },
+      { "img": "/img/properties/wuse/home-07x1904.jpg" },
+      { "img": "/img/properties/wuse/pexels-max-rahubovskiy-7005453x1904.jpg" }
+    ],
+    "title": "Elegant Penthouse in Wuse",
+    "productImg": "/img/properties/wuse/home-06x800.jpg",
+    "price": 700,
+    "priceRange": ["High-End"],
+    "discount": 12,
+    "country": true,
+    "district": "Wuse",
+    "properties": 3,
+    "featured": true,
+    "new": false,
+    "rent": false,
+    "photo": ["living", "bedroom", "terrace"],
+    "video": ["tour", "panoramic"],
+    "bedBath": ["Double", "selling"],
+    "ratingCount": 12,
+    "rating": 4.8,
+    "saleCount": 10,
+    "category": ["buying"],
+    "tag": [
+      "Elegant",
+      "penthouse",
+      "luxury",
+      "terrace",
+      "Wuse",
+      "panoramic",
+      "High-End"
+    ],
+    "date": "October 25, 2022",
+    "comments": 22,
+    "locantion": "Wuse, Abuja",
+    "description": {
+      "title": "Description",
+      "fullDescription": "An elegant and luxurious penthouse located in the prime area of Wuse. This property features breathtaking panoramic views from its terrace. Ideal for those seeking a high-end and sophisticated lifestyle.",
+      "shortDescription": "Elegant penthouse with luxury features and breathtaking terrace views in the prime area of Wuse."
+    },
+    "propertyDetails": {
+      "propertyId": "WSE05",
+      "area": 3000,
+      "propertyStatus": "For Sale",
+      "rooms": 6,
+      "bedrooms": 4,
+      "baths": 4,
+      "createdYear": 2016
+    },
+    "factsAndFeatures": {
+      "livingRoom": "35 x 28 sq feet",
+      "terrace": "40 x 30 sq feet",
+      "bedroom": "25 x 20 sq feet",
+      "bathroom": "18 x 15 sq feet",
+      "studyRoom": "20 x 18 sq feet",
+      "parking": "Covered"
+    },
+    "amenities1": [
+      "Air Conditioning",
+      "Elevator",
+      "Gym",
+      "Swimming Pool",
+      "Smart Home System"
+    ],
+    "amenities2": [
+      "Home Theater",
+      "Wine Cellar",
+      "Central Heating",
+      "Jacuzzi",
+      "Security System"
+    ],
+    "amenities3": [
+      "Study Room",
+      "Maid's Room",
+      "Built-in Wardrobes",
+      "Power Backup",
+      "Intercom System"
+    ],
+    "AmenitiesList": ["Luxury"],
+    "agent": {
+      "firstName": "David",
+      "lastName": "Williams",
+      "fullName": "David Williams",
+      "type": "Real Estate Agent",
+      "img": "agent-04.jpg",
+      "designation": "Luxury Property Specialist",
+      "rating": 4.9,
+      "description": "Committed to delivering unmatched luxury properties and ensuring clients experience the epitome of sophisticated living.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    "gallery": {
+      "img1": "/img/properties/wuse/home-06.jpg",
+      "img2": "/img/properties/wuse/home-07.jpg",
+      "img3": "/img/properties/wuse/pexels-max-rahubovskiy-7005453.jpg"
+    },
+    "propertyTypes": ["Penthouse", "Luxury", "High-End"],
+    "floorPlan": {
+      "img": "/img/properties/wuse/floor_plan-001.png",
+     "features":{
+        "first":[
+          "Master Suit: 12′ 0″ X 16′ 0″",
+          "Bedroom 2: 10′ 0″ X 10′ 0″",
+          "Bedroom 3/ Den: 10′ 0″ X 10′ 0″",
+          "Living room: 12′ 4″ X 16′ 6″",
+          "Dining Room: 10′ 0″ X 9′ 4″",
+          "Nook: 8′ 8″ X 11′ 0″"
+        ]
+     }
+    }
+  },
+  {
+    "id": "4",
+    "paranoma": "/img/properties/jabi/jabi.jpeg",
+    "carousel": [
+      { "img": "/img/properties/jabi/home-01x1904.jpg" },
+      { "img": "/img/properties/jabi/home-02x1904.jpg" },
+      { "img": "/img/properties/jabi/home-16x1904.jpg" }
+    ],
+    "title": "Modern Duplex in Jabi",
+    "productImg": "/img/properties/jabi/home-01x800.jpg",
+    "price": 350,
+    "priceRange": ["Mid-Range"],
+    "discount": 9,
+    "country": true,
+    "district": "Jabi",
+    "properties": 3,
+    "featured": true,
+    "new": false,
+    "rent": false,
+    "photo": ["living", "bedroom", "terrace"],
+    "video": ["tour", "interior"],
+    "bedBath": ["Triple", "selling"],
+    "ratingCount": 10,
+    "rating": 4.2,
+    "saleCount": 20,
+    "category": ["buying"],
+    "tag": [
+      "Modern",
+      "duplex",
+      "spacious",
+      "terrace",
+      "Jabi",
+      "greenery",
+      "Mid-Range"
+    ],
+    "date": "November 8, 2022",
+    "comments": 15,
+    "locantion": "Jabi, Abuja",
+    "description": {
+      "title": "Description",
+      "fullDescription": "A modern and spacious duplex located in the vibrant Jabi district. This property features a stylish interior and a relaxing terrace. Ideal for those looking for contemporary living with a touch of greenery.",
+      "shortDescription": "Modern duplex with spacious interiors and a relaxing terrace in the vibrant Jabi district."
+    },
+    "propertyDetails": {
+      "propertyId": "JBI14",
+      "area": 2200,
+      "propertyStatus": "For Sale",
+      "rooms": 6,
+      "bedrooms": 4,
+      "baths": 3,
+      "createdYear": 2019
+    },
+    "factsAndFeatures": {
+      "livingRoom": "28 x 22 sq feet",
+      "terrace": "25 x 15 sq feet",
+      "bedroom": "20 x 18 sq feet",
+      "bathroom": "12 x 10 sq feet",
+      "studyRoom": "18 x 15 sq feet",
+      "parking": "Garage"
+    },
+    "amenities1": [
+      "Air Conditioning",
+      "Garden",
+      "Pet-Friendly",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Security System",
+      "Parking",
+      "Fireplace",
+      "Built-in Wardrobes"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Washing Machine",
+      "Microwave",
+      "CCTV Surveillance",
+      "Dining Area"
+    ],
+    "AmenitiesList": ["Modern"],
+    "agent": {
+      "firstName": "Sophie",
+      "lastName": "Taylor",
+      "fullName": "Sophie Taylor",
+      "type": "Real Estate Agent",
+      "img": "agent-05.jpg",
+      "designation": "Property Consultant",
+      "rating": 4.0,
+      "description": "Dedicated to helping clients find modern and stylish homes that match their unique preferences. Your dream home is just a step away!",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    "gallery": {
+      "img1": "/img/properties/jabi/home-01.jpg",
+      "img2": "/img/properties/jabi/home-02.jpg",
+      "img3": "/img/properties/jabi/home-16.jpg"
+    },
+    "propertyTypes": ["Duplex", "Modern", "Greenery"],
+    "floorPlan": {
+      "img": "/img/properties/jabi/floor_plan-001.png",
+     "features":{
+        "first":[
+          "Bedroom 2: 9′ 0″ X 10′ 0″",
+          "Great Room: 18′ 8″ X 15′ 6″",
+          "Dining Room: 14′ 0″ X 10′ 0″",
+          "Kitchen: 16′ 5″ X 10′ 0″",
+          "Master Suit: 13′ 5″ X 13′ 00″",
+          "Garage: 23′ 6″ X 23′ 0″"        
+        ]
+     }
+    }
+  },
+  {
+    "id": "7",
+    "paranoma": "/img/properties/gwarinpa/gwarinpa.jpeg",
+    "carousel": [
+      { "img": "/img/properties/gwarinpa/home-03x1904.jpg" },
+      { "img": "/img/properties/gwarinpa/home-04x1904.jpg" },
+      { "img": "/img/properties/gwarinpa/home-05x1904.jpg" }
+    ],
+    "title": "Classic Bungalow in Gwarimpa",
+    "productImg": "/img/properties/gwarinpa/home-03x800.jpg",
+    "price": 180000,
+    "priceRange": ["Affordable"],
+    "discount": 5,
+    "country": true,
+    "district": "Gwarimpa",
+    "properties": 2,
+    "featured": true,
+    "new": false,
+    "rent": false,
+    "photo": ["living", "bedroom", "porch"],
+    "video": ["tour", "interior"],
+    "bedBath": ["Double", "selling"],
+    "ratingCount": 8,
+    "rating": 4.0,
+    "saleCount": 12,
+    "category": ["buying"],
+    "tag": [
+      "Classic",
+      "bungalow",
+      "porch",
+      "Gwarimpa",
+      "cozy",
+      "affordable"
+    ],
+    "date": "February 20, 2023",
+    "comments": 15,
+    "locantion": "Gwarimpa, Abuja",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Step into classic living with this affordable bungalow situated in the heart of Gwarimpa. The property features a cozy interior and a charming porch, perfect for relaxation.",
+      "shortDescription": "Classic bungalow with a cozy interior and charming porch in the heart of Gwarimpa, offering affordable living."
+    },
+    "propertyDetails": {
+      "propertyId": "GWM30",
+      "area": 1500,
+      "propertyStatus": "For Sale",
+      "rooms": 4,
+      "bedrooms": 2,
+      "baths": 2,
+      "createdYear": 2017
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 18 sq feet",
+      "porch": "15 x 8 sq feet",
+      "bedroom": "16 x 14 sq feet",
+      "bathroom": "10 x 8 sq feet",
+      "parking": "Open"
+    },
+    "amenities1": [
+      "Air Conditioning",
+      "Garden",
+      "Pet-Friendly",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Security System",
+      "Parking",
+      "Built-in Wardrobes",
+      "Power Backup"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Washing Machine",
+      "Microwave",
+      "CCTV Surveillance",
+      "Dining Area"
+    ],
+    "AmenitiesList": ["Cozy"],
+    "agent": {
+      "firstName": "Grace",
+      "lastName": "Brown",
+      "fullName": "Grace Brown",
+      "type": "Real Estate Agent",
+      "img": "agent-08.jpg",
+      "designation": "Property Consultant",
+      "rating": 4.2,
+      "description": "Passionate about helping clients find cozy and affordable homes. Let me assist you in finding the perfect place to call home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    "gallery": {
+      "img1": "/img/properties/gwarinpa/home-03.jpg",
+      "img2": "/img/properties/gwarinpa/home-04.jpg",
+      "img3": "/img/properties/gwarinpa/home-05.jpg"
+    },
+    "propertyTypes": ["Bungalow", "Classic", "Affordable"],
+    "floorPlan": {
+      "img": "/img/properties/gwarinpa/floor_plan-001.png",
+     "features":{
+        "first":[
+          "Master Bedroom: 15′ 0″ X 20′ 0″",
+          "Bedroom 2: 12′ 0″ X 15′ 0″",
+          "Bedroom 3: 12′ 0″ X 15′ 0″",
+          "Bedroom 4: 12′ 0″ X 15′ 0″",
+          "Dining Room: 15′ 0″ X 13′ 0″",
+          "Kitchen: 17′ 6″ X 20′ 0″",
+          "Both Garage: 20′ 0″ X 20′ 0″",
+          "Living Room: 12′ 0″ X 15′ 0″"
+        ]
+     }
+    }
+  }
+]

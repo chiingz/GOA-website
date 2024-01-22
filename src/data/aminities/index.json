@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "title": "Parking Space",
+    "description": "Experience hassle-free living with ample parking space in our community. Convenience meets accessibility, ensuring stress-free arrivals to your home sweet home.",
+    "icon": "flaticon-car"
+  },
+  {
+    "id": "02",
+    "title": "Swimming Pool",
+    "description": "Dive into luxury with our inviting swimming pool. Enjoy a refreshing oasis right at home, where relaxation and recreation converge for a perfect blend of leisure and well-being.",
+    "icon": "flaticon-swimming"
+  },
+  {
+    "id": "03",
+    "title": "Private Security",
+    "description": "Rest assured with our dedicated private security service. Your safety is our priority, providing peace of mind and a secure environment for you and your community.",
+    "icon": "flaticon-secure-shield"
+  },
+  {
+    "id": "04",
+    "title": "Medical Center",
+    "description": "Prioritize your well-being with a convenient on-site medical center. In our community, health care is within reach, ensuring quick access to professional services for your peace of mind.",
+    "icon": "flaticon-stethoscope"
+  },
+  {
+    "id": "05",
+    "title": "Library Area",
+    "description": "Immerse yourself in a world of knowledge with our thoughtfully designed library area. A quiet haven for book lovers, fostering a tranquil space for learning and relaxation in the heart of our community.",
+    "icon": "flaticon-book"
+  },
+  {
+    "id": "06",
+    "title": "King Size Beds",
+    "description": "Experience ultimate comfort with our king-size beds. Elevate your sleep sanctuary, where spacious luxury meets a restful haven for a rejuvenating night's sleep.",
+    "icon": "flaticon-bed-1"
+  },
+  {
+    "id": "07",
+    "title": "Smart Homes",
+    "description": "Step into the future with our smart homes, where cutting-edge technology meets modern living. Enjoy unparalleled convenience and control over your home environment with integrated smart features.",
+    "icon": "flaticon-home-2"
+  },
+  {
+    "id": "08",
+    "title": "Kid’s Playland",
+    "description": "Elevate family living with our dedicated kid's playland. A vibrant space where laughter and joy flourish, fostering a safe and playful environment for your little ones to explore and create cherished memories.",
+    "icon": "flaticon-slider"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Discover Your Ideal Home with Us",
+    "Desc": "Discover the perfect home that resonates with your dreams and aspirations.",
+    "icon": "FaHome",
+    "heroimage": "/img/george/home-01.jpg",
+    "id": "1",
+    "buttonText": "Make An Enquiry",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Discover Your Perfect Home Location with Us",
+    "Desc": "Your ideal home awaits with us – where finding the perfect house meets unmatched expertise.",
+    "icon": "FaHome",
+    "heroimage": "/img/george/home-02.jpg",
+    "id": "2",
+    "buttonText": "Make An Enquiry",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Explore and Locate Your Luxury Dream Home",
+    "Desc": " Elevate your lifestyle with our curated selection of upscale homes, where luxury meets your unique preferences.",
+    "icon": "FaHome",
+    "heroimage": "/img/george/home-13.jpg",
+    "id": "3",
+    "buttonText": "Make An Enquiry",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": false
+  }
+ 
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Buy a home",
+    "shortDescription": "Seize the dream of homeownership. Buy a home and embark on a journey where comfort, security, and lasting memories await.",
+    "captions": {
+      "image1": "/img/buy-a-home.jpg",
+      "image2": "/img/home-view.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Ready to make the leap into homeownership? We are your trusted partner in finding and buying the perfect home tailored to your needs and preferences. Explore our diverse range of available homes, each carefully selected for its unique features and value. Our team of real estate experts is committed to guiding you through the entire home-buying process.",
+      "captionShortDescription": "We understand the significance of this investment. Let us help you navigate the market, negotiate the best deals, and make your dream of owning a home a reality. Take the first step towards homeownership with confidence. Choose Us for a seamless and rewarding home-buying experience."
+    },
+    "thumbImage": "21.jpg",
+    "img": "21.png",
+    "id": "01",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-house",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+
+  {
+    "title": "Rent a home",
+    "shortDescription": "Discover the perfect rental space. Rent a home that suits your lifestyle and embrace the comfort of a place to call your own, even if just for a while.",
+    "captions": {
+      "image1": "/img/rent-a-home.jpg",
+      "image2": "/img/home-view.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Explore our diverse selection of rental properties, each carefully curated for comfort and convenience. Our dedicated team is committed to making the rental process smooth and enjoyable for you.",
+      "captionShortDescription": "We prioritize your satisfaction. Whether you're looking for a cozy apartment or a spacious family home, we have rental options that fit your lifestyle. Find your next home with us. Discover the ease of renting with Us. Our extensive listings offer a range of rental homes, from modern apartments to charming houses, ensuring you'll find the perfect fit. Benefit from our streamlined rental process, where transparency and clear communication are paramount. We strive to make renting a home a straightforward and enjoyable experience."
+    },
+    "thumbImage": "21.jpg",
+    "img": "22.png",
+    "id": "02",
+    "buttonText": "Find A Home",
+    "active": true,
+    "icon": "flaticon-house-3",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Sell a home",
+    "shortDescription": "Unlock the next chapter in your journey. Sell a home effortlessly with our expertise, ensuring a seamless transition for both sellers and new homeowners.",
+    "fullDescription": "Our team of seasoned real estate professionals excels in strategic pricing, effective marketing, and personalized service. We work tirelessly to maximize the value of your property and attract the right buyers.",
+    "captions": {
+      "image1": "/img/sell-a-home.jpg",
+      "image2": "/img/home-view.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "From the initial listing to the final closing, we prioritize your needs and ensure transparent communication throughout. Selling with us means tapping into a wealth of industry knowledge and a network of potential buyers. We believe in making your home-selling journey as stress-free as possible. Experience the difference of working with dedicated professionals who have your best interests at heart.",
+      "captionShortDescription": "Embark on a successful home-selling journey with Us. Our experienced team is dedicated to achieving the best results for you, providing personalized service and expert guidance. Trust us to showcase your home's unique features, reach a wide audience, and negotiate effectively on your behalf. Selling your home has never been more efficient and rewarding than with us"
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "03",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-deal-1",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Sell a home",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "04",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-deal-1",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Sell a home",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "05",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-deal-1",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Sell a home",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "06",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-deal-1",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Sell a home",
+    "shortDescription": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "07",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-deal-1",
+    "category": ["buying", "women"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Smart living",
+    "shortDescription": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "08",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-apartment",
+    "category": ["buying", "women"],
+    "featured": false,
+    "coreFeature": true
+  },
+  {
+    "title": "ECO Construction",
+    "shortDescription": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "09",
+    "buttonText": "Find A Home",
+    "active": true,
+    "icon": "flaticon-park",
+    "category": ["buying", "women"],
+    "featured": false,
+    "coreFeature": true
+  },
+  {
+    "title": "Atractive Location",
+    "shortDescription": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "10",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-maps-and-location",
+    "category": ["buying", "women"],
+    "featured": false,
+    "coreFeature": true
+  },
+  {
+    "title": "Modern Technology",
+    "shortDescription": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Image caption here.",
+      "captionFullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "captionShortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "11",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-excavator",
+    "category": ["buying", "women"],
+    "featured": false,
+    "coreFeature": true
+  }
+]
